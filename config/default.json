@@ -1,4 +1,4 @@
 {
-  "dbUri": "mongodb+srv://Soumil:Sx0cPx12FiHbKish@backenddb.wv4ur.mongodb.net/JobsDB?retryWrites=true&w=majority",
+  "dbUri": "",
   "JWT_KEY": "db26037c587f9b64b77549b4c06b50db47ecd53ff8a880c96f50bc18c9af251369b0f215"
 }
